@@ -1,1 +1,1 @@
-web: cd frever && rails s
+web: cd frever-server && rails s
